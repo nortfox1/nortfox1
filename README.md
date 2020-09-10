@@ -7,6 +7,8 @@ Skills: JS, TS, HTML, CSS, Mysql, MongoDB, Node
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikitafox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nikitafox)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafox&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafox&show_icons=true&theme=nord)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafox&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/nikitafox)  
