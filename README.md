@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm NikitaFox
+
+---
+
 I am a nodejs developer, I live in Russia, I work at home for myself!
 
 Skills: JS, TS, HTML, CSS, Mysql, MongoDB, Node
