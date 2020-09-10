@@ -9,6 +9,6 @@ Skills: JS, TS, HTML, CSS, Mysql, MongoDB, Node
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafox&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafox&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafox&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/nikitafox)  
