@@ -6,6 +6,7 @@
 > * React.JS 
 > * HTML5
 > * CSS/SCSS
+> * JavaScript
 > * WebSocket
 
 > BackEnd
