@@ -1,25 +1,14 @@
-## Привет 👋, я NortFox (`WebDeveloper`)
+## Ку, я **Nōrt[Fōx]**
 ---
-### Мои навыки:
-> FrontEnd
-> ---
-> * React.JS 
-> * HTML5
-> * CSS/SCSS
-> * JavaScript
-> * WebSocket
+### Мои знания
+FrontEnd | BackEnd | Языки Программирования
+---------|---------|-----------------------
+HTML5 | Next.JS | JavaScript
+CSS/SCSS/LESS | Mongodb | TypeScript
+JS | Firebase | Java
+WebSocket | TypeScript | Kotlin
+||WebSocket | SQL
 
-> BackEnd
-> ---
-> * Express (Nest)
-> * TypeScript
-> * WebSocket
-> * MongoDB
-> * (`MySQL`)
-
-> Другое
-> ---
-> * Kotlin
-> * Java
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikitafox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafox)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafox&show_icons=true)
