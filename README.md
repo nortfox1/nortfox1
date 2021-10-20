@@ -4,7 +4,7 @@ FrontEnd | BackEnd | Языки Программирования
 ---------|---------|-----------------------
 HTML5 | Next.JS | JavaScript
 CSS/SCSS/LESS | Mongodb | TypeScript
-JS | Firebase | Java
+JavaScript | Firebase | Java
 WebSocket | TypeScript | Kotlin
 React.JS | WebSocket | SQL
 
