@@ -8,6 +8,6 @@ JS | Firebase | Java
 WebSocket | TypeScript | Kotlin
 React.JS | WebSocket | SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafox)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafox&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafox&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafox)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=nikitafox&color=10AFF1)
