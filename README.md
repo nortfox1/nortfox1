@@ -12,4 +12,4 @@ React.JS | WebSocket | SQL
 
 ![](https://komarev.com/ghpvc/?username=nikitafox&color=10AFF1)
 
-![](https://www.codewars.com/users/nikitafox/badges/large)
+[![](https://www.codewars.com/users/nikitafox/badges/large)](https://www.codewars.com/users/nikitafox)
