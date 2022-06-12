@@ -1,15 +1,43 @@
-## Ку, я **Nōrt[Fōx]**
-### Мои знания
-FrontEnd | BackEnd | Языки Программирования
----------|---------|-----------------------
-HTML5 | Next.JS | JavaScript
-CSS/SCSS/LESS | Mongodb | TypeScript
-JavaScript | Firebase | Java
-WebSocket | TypeScript | Kotlin
-React.JS | WebSocket | SQL
+```dart
+class About extends Person {
+  About(): super(
+    name: "NortFox",
+    age: Person.rangeAge(20, 21),
+    sex: "Male",
+    skills: [
+      "JavaScript",
+      "TypeScript",
+      "Dart",
+      "React",
+      "Next",
+      "SCSS",
+      "CSS",
+      "HTML",
+      "Mongoose"
+    ],
+    interests: [
+      "Programming",
+      "Game",
+      "Astronomy"
+    ]
+  );
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortfox1&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortfox1)](https://github.com/anuraghazra/github-readme-stats)
+  @override
+  get fullInfo {
+    return "Hi, I'm $name, I'm $age and I like ${interests.smartJoin(",", "and")}";
+  }
 
-![](https://komarev.com/ghpvc/?username=nikitafox&color=10AFF1)
+  @override
+  get fullSkills {
+    return "My skills ${skills.smartJoin(",", "and")}";
+  }
+}
+```
+```dart
+void main() {
+  var me = About();
 
-[![](https://www.codewars.com/users/nikitafox/badges/large)](https://www.codewars.com/users/nikitafox)
+  print(me.fullInfo);
+  print(me.fullSkills);
+}
+```
