@@ -22,15 +22,8 @@ class About extends Person {
     ]
   );
 
-  @override
-  get fullInfo {
-    return "Hi, I'm $name, I'm $age and I like ${interests.smartJoin(",", "and")}";
-  }
-
-  @override
-  get fullSkills {
-    return "My skills ${skills.smartJoin(",", "and")}";
-  }
+  @override get fullInfo => "Hi, I'm $name, I'm $age and I like ${interests.smartJoin(",", "and")}";
+  @override get fullSkills => "My skills ${skills.smartJoin(",", "and")}";
 }
 ```
 ```dart
