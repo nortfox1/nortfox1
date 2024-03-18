@@ -1,9 +1,10 @@
 ```dart
 class About extends Person {
   About(): super(
-    name: "Bjorn_",
-    age: Person.rangeAge(21, 22),
+    name: "San Krayer",
+    age: Person.rangeAge(22, 23),
     sex: "Male",
+    special: "Fox",
     skills: [
       "TypeScript",
       "Dart",
@@ -19,6 +20,8 @@ class About extends Person {
       "Programming",
       "Game",
       "Astronomy"
+      "Furry"
+      "Science"
     ]
   );
 
