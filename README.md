@@ -19,8 +19,7 @@ class About extends Person {
     interests: [
       "Programming",
       "Game",
-      "Astronomy"
-      "Furry"
+      "Astronomy",
       "Science"
     ]
   );
