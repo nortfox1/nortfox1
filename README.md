@@ -20,7 +20,8 @@ class About extends Person {
       "Programming",
       "Game",
       "Astronomy",
-      "Science"
+      "Science",
+      "Furry"
     ]
   );
 
